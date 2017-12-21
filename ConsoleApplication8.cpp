@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+	cout << "izmenennui fail" << endl;
 	const int n = 5;
 
 	int A[n];
